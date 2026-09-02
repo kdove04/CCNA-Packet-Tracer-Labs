@@ -4,19 +4,11 @@ This repository contains hands-on networking labs completed while studying for t
 
 ## Labs to be Completed
 
-- VLAN Configuration
-- Inter-VLAN Routing
-- DHCP
-- NAT
-- OSPF
-- ACLs
-- STP
-- IPv6
+
 
 ## Tools Used
 
 - Cisco Packet Tracer
-- Wireshark
 - Cisco IOS CLI
 
 ## Certification
