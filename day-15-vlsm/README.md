@@ -5,8 +5,8 @@ Completed Cisco Packet Tracer lab from Jeremy's IT Lab CCNA 200-301 course (Day 
 ## What I practiced
 
 - Splitting one address block into subnets of different sizes with VLSM, assigning the largest subnet first
-- Calculating the network address, usable range and broadcast address for each subnet
-- Configuring the planned addresses on the devices in Packet Tracer
+- Calculating the network address, usable range and broadcast address for each subnet and assigning addresses to PCs in each LAN and Routers.
+- Configuring Static Routes on each Router 
 
 ## Files
 
