@@ -12,7 +12,7 @@ Completed Cisco Packet Tracer lab from Jeremy's IT Lab CCNA 200-301 course (Day 
 
 | File | Description |
 |---|---|
-| `Day_15_Lab_-_VLSM_kd.pkt` | My completed lab. Open it with Cisco Packet Tracer 8.x. |
+| [Day 15 Lab - VLSM kd.pkt](Day%2015%20Lab%20-%20VLSM%20kd.pkt) | My completed lab. Open it with Cisco Packet Tracer 8.x. |
 
 ## Credit
 
