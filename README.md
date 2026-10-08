@@ -1,34 +1,34 @@
 # CCNA 200-301 Lab Portfolio
 
-Hands-on labs I built and completed while preparing for the Cisco CCNA 200-301 exam. Each lab is written in the style of a CCNA simulation item: a scenario, a topology, a numbered task list with constraints, and verification questions. Labs are built and tested in Cisco Packet Tracer.
+Cisco Packet Tracer labs I've completed while studying for the CCNA 200-301 exam. Each folder holds my completed `.pkt` file and a short write-up of what I practiced.
 
 **Exam target:** December 2026
 
 ## Labs
 
-| # | Lab | Topics | Status |
-|---|-----|--------|--------|
-| 00 | [VLAN Lab](vlan-lab/) | VLANs, access ports, trunking | 🚧 In progress |
-| 01 | [Branch Office Bring-Up](lab-01-branch-bring-up/) | Subnetting, IPv4 addressing, device hardening, switch management | ⬜ Not started |
-| 02 | [Three-Site Static Routing](lab-02-static-routing/) | Static routes, default routes, longest-prefix match, troubleshooting | ⬜ Not started |
+| Lab | Topics | Status |
+|---|---|---|
+| [Day 15: VLSM](day-15-vlsm/) | VLSM subnetting, IPv4 addressing | ✅ Complete |
 
 ## How each lab is organized
 
 ```
-lab-XX-name/
-├── README.md       # Scenario, topology, tasks and verification questions
-├── solution.md     # Reference configuration and answers
-└── my-work/        # My Packet Tracer file, configs and screenshots
+day-XX-topic/
+├── README.md   # What the lab covers and what I practiced
+└── *.pkt       # My completed Packet Tracer file
 ```
 
-## How to use these labs
+## How to open a lab
 
-1. Read the lab `README.md` and build the topology in Packet Tracer.
-2. Complete every task **without** opening `solution.md`.
-3. Run the verification commands and answer the questions.
-4. Check against `solution.md`, then save your `.pkt` file and `show running-config` output in `my-work/`.
+1. Install [Cisco Packet Tracer](https://www.netacad.com/resources/lab-downloads) 8.x (free with a Cisco Networking Academy account).
+2. Download the `.pkt` file from the lab's folder.
+3. Open it in Packet Tracer to view the topology and device configurations.
 
 ## Tools
 
 - Cisco Packet Tracer 8.x
-- Devices: Cisco 2911 routers, Cisco 2960 switches, generic PCs
+- Cisco IOS CLI
+
+## Credit
+
+Lab topologies come from [Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab) free CCNA course. The configurations are my own work.
