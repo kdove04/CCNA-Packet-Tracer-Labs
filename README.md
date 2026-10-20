@@ -2,7 +2,7 @@
 
 Cisco Packet Tracer labs I've completed while studying for the CCNA 200-301 exam. Each folder holds my completed `.pkt` file and a short write-up of what I practiced.
 
-**Exam target:** December 2026
+**Exam date:** January 6, 2027
 
 ## Labs
 
