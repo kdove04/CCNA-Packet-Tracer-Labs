@@ -29,7 +29,7 @@ show interfaces trunk
 
 | File | Description |
 |---|---|
-| `.pkt` file in this folder | My completed lab. Open it with Cisco Packet Tracer 8.x. |
+| [Day 17 Lab - VLANs (Part 2) kd .pkt](Day%2017%20Lab%20-%20VLANs%20%28Part%202%29%20kd%20.pkt) | My completed lab. Open it with Cisco Packet Tracer 8.x. |
 
 ## Credit
 
