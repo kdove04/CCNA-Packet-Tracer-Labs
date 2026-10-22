@@ -25,7 +25,7 @@ show vlan brief
 
 | File | Description |
 |---|---|
-| `.pkt` file in this folder | My completed lab. Open it with Cisco Packet Tracer 8.x. |
+| [Day 16 Lab - VLANs (Part 1) kd .pkt](Day%2016%20Lab%20-%20VLANs%20%28Part%201%29%20kd%20.pkt) | My completed lab. Open it with Cisco Packet Tracer 8.x. |
 
 ## Credit
 
