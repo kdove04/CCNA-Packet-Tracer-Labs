@@ -31,7 +31,7 @@ show ip route
 
 | File | Description |
 |---|---|
-| `.pkt` file in this folder | My completed lab. Open it with Cisco Packet Tracer 8.x. |
+| [Day 18 Lab - Multilayer Switching kd.pkt](Day%2018%20Lab%20-%20Multilayer%20Switching%20kd.pkt) | My completed lab. Open it with Cisco Packet Tracer 8.x. |
 
 ## Credit
 
