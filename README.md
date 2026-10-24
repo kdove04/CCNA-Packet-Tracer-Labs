@@ -11,6 +11,7 @@ Cisco Packet Tracer labs I've completed while studying for the CCNA 200-301 exam
 | [Day 15: VLSM](day-15-vlsm/) | VLSM subnetting, IPv4 addressing | ✅ Complete |
 | [Day 16: VLANs, Part 1](day-16-vlans/) | VLAN creation, access ports, inter-VLAN routing | ✅ Complete |
 | [Day 17: VLANs, Part 2](day-17-vlans-part-2/) | 802.1Q trunks, allowed VLANs, native VLAN, router-on-a-stick | ✅ Complete |
+| [Day 18: VLANs, Part 3](day-18-vlans-part-3/) | Native VLAN on a router, Layer 3 switch SVIs, ip routing, routed ports | ✅ Complete |
 
 ## How each lab is organized
 
