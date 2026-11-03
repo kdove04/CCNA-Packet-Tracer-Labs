@@ -28,7 +28,7 @@ show spanning-tree vlan 1
 
 | File | Description |
 |---|---|
-| Packet Tracer file (uploading) | My completed lab. Open it with Cisco Packet Tracer 8.x. |
+| [Day 22 Lab - Rapid STP -kd.pkt](Day%2022%20Lab%20-%20Rapid%20STP%20-kd.pkt) | My completed lab. Open it with Cisco Packet Tracer 8.x. |
 
 ## Credit
 
