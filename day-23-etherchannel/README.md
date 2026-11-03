@@ -30,7 +30,7 @@ show etherchannel load-balance
 
 | File | Description |
 |---|---|
-| Packet Tracer file (uploading) | My completed lab. Open it with Cisco Packet Tracer 8.x. |
+| [Day 23 Lab - EtherChannel - kd.pkt](Day%2023%20Lab%20-%20EtherChannel%20-%20kd.pkt) | My completed lab. Open it with Cisco Packet Tracer 8.x. |
 
 ## Credit
 
